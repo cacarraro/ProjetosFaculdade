@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/FACULDADE/Semestre4/C++ & Java/PllhaC++/Pilha.h
+
+E:/FACULDADE/Semestre4/C++ & Java/PllhaC++/PilhaEstatica.cpp
+PilhaEstatica.h
+E:/FACULDADE/Semestre4/C++ & Java/PllhaC++/PilhaEstatica.h
+
+E:/FACULDADE/Semestre4/C++ & Java/PllhaC++/PilhaEstatica.h
+Pilha.h
+E:/FACULDADE/Semestre4/C++ & Java/PllhaC++/Pilha.h
+
+E:/FACULDADE/Semestre4/C++ & Java/PllhaC++/main.cpp
+iostream
+-
+PilhaEstatica.h
+E:/FACULDADE/Semestre4/C++ & Java/PllhaC++/PilhaEstatica.h
+
